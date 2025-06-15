@@ -1,0 +1,21 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Rohit,Prasad,35,"A-563 Rakshak Society","New Pune Road",Pune,Maharashtra,male
+Priya,Sharma,28,"B-204 Green Valley","MG Road",Mumbai,Maharashtra,female
+Amit,Kumar,42,"C-105 Royal Apartments","Sector 15",Gurgaon,Haryana,male
+Sneha,Patel,31,"D-301 Sunshine Residency","Ring Road",Ahmedabad,Gujarat,female
+Rajesh,Singh,55,"E-102 Heritage Homes","Civil Lines",Delhi,Delhi,male
+Kavita,Joshi,26,"F-205 Modern Heights","Koregaon Park",Pune,Maharashtra,female
+Arjun,Reddy,38,"G-408 Tech Tower","Hi-Tech City",Hyderabad,Telangana,male
+Meera,Iyer,33,"H-501 Ocean View","Marine Drive",Chennai,Tamil Nadu,female
+Vikram,Agarwal,29,"I-603 Sky Scraper","Cyber City",Bangalore,Karnataka,male
+Pooja,Gupta,45,"J-201 Garden City","Sector 22",Chandigarh,Punjab,female
+Ravi,Nair,52,"K-302 Palm Grove","Kakkanad",Kochi,Kerala,male
+Anita,Desai,27,"L-401 Rose Gardens","Satellite",Ahmedabad,Gujarat,female
+Suresh,Yadav,41,"M-505 Valley View","Whitefield",Bangalore,Karnataka,male
+Deepika,Malhotra,34,"N-102 City Center","Connaught Place",Delhi,Delhi,female
+Kiran,Patil,48,"O-203 Hill Station","Pimpri",Pune,Maharashtra,male
+Sunitha,Krishnan,30,"P-304 Tech Park","Electronic City",Bangalore,Karnataka,female
+Manoj,Tiwari,36,"Q-105 Business District","Noida",Noida,Uttar Pradesh,male
+Rashmi,Saxena,25,"R-406 Student Housing","University Area",Jaipur,Rajasthan,female
+Sanjay,Mehta,50,"S-507 Executive Towers","Bandra",Mumbai,Maharashtra,male
+Nisha,Bansal,32,"T-608 Green Valley","Sector 18",Noida,Uttar Pradesh,female
