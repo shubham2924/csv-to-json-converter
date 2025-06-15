@@ -118,8 +118,6 @@ CREATE TABLE users (
 ```http
 POST /api/csv/process
 
-```http
 GET /api/csv/users
 
-```http
 GET /api/csv/report
