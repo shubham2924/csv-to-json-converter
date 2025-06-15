@@ -64,7 +64,7 @@ csv-to-json-api/
    npm run migrate
    ```
 
-5. **Start the application**
+4. **Start the application**
    ```bash
    # Development mode
    npm run dev
@@ -118,10 +118,8 @@ CREATE TABLE users (
 ```http
 POST /api/csv/process
 
-### Get list of all users
 ```http
 GET /api/csv/users
 
-### Generate the report
 ```http
 GET /api/csv/report
